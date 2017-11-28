@@ -1,8 +1,0 @@
-1251
-	$("#btnDescartar").click( function (e) {
-	
-	
-btnDescartar	
- var scrap_id = $('#scrap_id').val();	
- 
- 567524
